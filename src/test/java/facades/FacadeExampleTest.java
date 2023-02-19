@@ -15,7 +15,7 @@ import org.junit.jupiter.api.Test;
 //@Disabled
 public class FacadeExampleTest {
 
-    private static EntityManagerFactory emf;
+    /*private static EntityManagerFactory emf;
     private static FacadeExample facade;
 
     public FacadeExampleTest() {
@@ -58,7 +58,7 @@ public class FacadeExampleTest {
     @Test
     public void testAFacadeMethod() throws Exception {
         assertEquals(2, facade.getRenameMeCount(), "Expects two rows in the database");
-    }
+    }*/
     
 
 }

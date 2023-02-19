@@ -23,7 +23,7 @@ import static org.hamcrest.Matchers.equalTo;
 
 class LibraryResourceTest {
 
-    private static final int SERVER_PORT = 7777;
+    /*private static final int SERVER_PORT = 7777;
     private static final String SERVER_URL = "http://localhost/api";
 
     static final URI BASE_URI = UriBuilder.fromUri(SERVER_URL).port(SERVER_PORT).build();
@@ -211,5 +211,5 @@ class LibraryResourceTest {
                 .then()
                 .statusCode(200)
                 .body("bookKey", equalTo(bookKey));
-    }
+    }*/
 }

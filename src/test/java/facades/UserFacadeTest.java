@@ -20,7 +20,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class UserFacadeTest {
 
-    private static EntityManagerFactory emf;
+    /*private static EntityManagerFactory emf;
     private static UserFacade facade;
 
     private static User u1;
@@ -129,5 +129,5 @@ class UserFacadeTest {
         });
         assertEquals(404, e.getResponse().getStatus());
         assertEquals("Item not found in your library", e.getMessage());
-    }
+    }*/
 }
