@@ -45,7 +45,7 @@ workflows
 	org.eclipse.m2e.coreprefs
 
 CorsFilter
-	Standard cors filter configureations
+	Standard cors filter configurations
 	
 	deserializer
 	WikipediaArticleDeserializer
