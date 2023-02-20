@@ -131,6 +131,7 @@
                 <configuration>
                     <server>TomcatServer</server>
                     <url>${remote.server}</url>
+                    <!--maybe use this when ready-->
 <!--                    <username>${remote.user}</username>-->
                     <username>AlexanderStubMichelsen</username>
                     <password>Pa22w0rd!</password>
