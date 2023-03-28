@@ -29,7 +29,7 @@ workflows
 	 	languageLevel="JDK_11"
 	
 	runConfigurations.xml
-		Configurerations for the program
+		Configurations for the program
 			Maven
 			Artifact
 			Manager
